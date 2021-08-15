@@ -1,2 +1,3 @@
 Cara menggunakan github:
 1. Git init
+2. Git add .
